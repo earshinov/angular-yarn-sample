@@ -1,3 +1,7 @@
+# angular-yarn-sample
+
+A demo Angular project for issue https://github.com/angular/angular/issues/39140.
+
 The project is generated with `npx -p @angular/cli ng new sample --minimal`.
 
 Repro steps:
